@@ -1,1 +1,51 @@
-[]
+[
+       {
+              "id": "eca7d9b7-720e-422a-99b6-ce2748d5f7fa",
+              "name": "Cameron Labadie",
+              "phone": "313-246-2159 x1908",
+              "email": "June.Wiza44@hotmail.com",
+              "job": "Internal Metrics Developer"
+       },
+       {
+              "id": "ab8c475b-3add-4397-8abc-6b099c4704f5",
+              "name": "Cindy Kovacek",
+              "phone": "1-359-483-3070 x3387",
+              "email": "Sheila10@yahoo.com",
+              "job": "Customer Functionality Manager"
+       },
+       {
+              "id": "6d0f262e-6040-47aa-82c2-26bac6e9d41e",
+              "name": "Lucille Haley",
+              "phone": "878-223-2125 x36672",
+              "email": "Wyatt.Ondricka@hotmail.com",
+              "job": "Customer Brand Consultant"
+       },
+       {
+              "id": "b8919648-5517-4eee-8c10-8682b1249bf7",
+              "name": "Ismael Gerlach",
+              "phone": "387-281-9644",
+              "email": "Kaylah.Goodwin91@gmail.com",
+              "job": "Customer Communications Strategist"
+       },
+       {
+              "id": "2c830cb1-75bd-45a5-a1ab-35b0b734144e",
+              "name": "Gwendolyn Ferry",
+              "phone": "(517) 682-6880 x6033",
+              "email": "Chyna_Littel45@gmail.com",
+              "job": "Corporate Paradigm Liaison"
+       },
+       {
+              "id": "fac477c8-2357-4229-ac6f-cd8ddece0db7",
+              "name": "Rosemary Schiller",
+              "phone": "1-619-616-6817 x517",
+              "email": "Blair6@hotmail.com",
+              "job": "Legacy Functionality Planner"
+       },
+       {
+              "id": "9288522e-03d7-4d44-a453-4abcdf8443b7",
+              "name": "Clyde White",
+              "phone": "522.748.8948",
+              "email": "Ole.Bosco@gmail.com",
+              "job": "Lead Metrics Associate"
+       }
+]
